@@ -1,0 +1,7 @@
+name: HighSchoolRobotics4167
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - ipywidgets
+  - ipycanvas
